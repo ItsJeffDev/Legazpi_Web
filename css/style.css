@@ -152,7 +152,7 @@ body{  /* Main */
     display: block;
     cursor: pointer;
     background-color: none;
-    color: white;
+    color: blue;
     text-decoration: none;
     padding-top: 3.2px;
     padding-right: 8px;
@@ -160,7 +160,7 @@ body{  /* Main */
     padding-left: 16px;
     font-family: Georgia, "Times New Roman", Times, serif;
     text-align: center;
-    text-shadow:2px 2px 3px white;
+    text-shadow:2px 2px 3px blue;
   }
 
   ul.Menubarhigda a:hover {
